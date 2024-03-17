@@ -1,0 +1,120 @@
+2024-01-30 20:11:08,401 [INFO]: ====== WebDriver manager ======
+2024-01-30 20:11:08,546 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-01-30 20:11:09,018 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-01-30 20:11:09,177 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-01-30 20:11:09,536 [INFO]: WebDriver version 121.0.6167.85 selected
+2024-01-30 20:11:09,539 [INFO]: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip
+2024-01-30 20:11:09,539 [INFO]: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip
+2024-01-30 20:11:09,979 [INFO]: Driver downloading response is 200
+2024-01-30 20:11:10,476 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-01-30 20:11:10,795 [INFO]: Driver has been saved in cache [/home/vol_user/.wdm/drivers/chromedriver/linux64/121.0.6167.85]
+2024-01-30 20:11:12,007 [ERROR]: Произошла ошибка при загрузке cookies: Message: invalid cookie domain
+  (Session info: chrome-headless-shell=121.0.6167.85)
+Stacktrace:
+#0 0x563d99b0ed93 <unknown>
+#1 0x563d997f2177 <unknown>
+#2 0x563d99891916 <unknown>
+#3 0x563d99860442 <unknown>
+#4 0x563d9987f12d <unknown>
+#5 0x563d998601e3 <unknown>
+#6 0x563d99830135 <unknown>
+#7 0x563d9983113e <unknown>
+#8 0x563d99ad2e4b <unknown>
+#9 0x563d99ad6dfa <unknown>
+#10 0x563d99abf6d5 <unknown>
+#11 0x563d99ad7a6f <unknown>
+#12 0x563d99aa369f <unknown>
+#13 0x563d99afc098 <unknown>
+#14 0x563d99afc262 <unknown>
+#15 0x563d99b0df34 <unknown>
+#16 0x7f57c416fac3 <unknown>
+
+2024-01-30 20:11:12,007 [INFO]: Initializing Bot...
+2024-01-30 20:11:12,078 [INFO]: Bot initialized successfully.
+2024-01-30 20:11:12,078 [INFO]: Initializing Dispatcher...
+2024-01-30 20:11:12,080 [INFO]: Dispatcher initialized successfully.
+2024-01-30 20:11:12,088 [INFO]: Бот запущен
+2024-01-30 20:11:12,088 [INFO]: Запуск главной функции...
+2024-01-30 20:11:12,089 [INFO]: Инициализация роутеров...
+2024-01-30 20:11:12,089 [INFO]: Удаление вебхука...
+2024-01-30 20:11:12,270 [INFO]: Запуск поллинга...
+2024-01-30 20:11:12,270 [INFO]: Start polling
+2024-01-30 20:11:12,332 [INFO]: Run polling for bot @LuxTaxiBot id=6802762031 - 'SuperTaxiBot'
+2024-01-30 20:20:35,150 [INFO]: Update id=139132240 is handled. Duration 247 ms by bot id=6802762031
+2024-01-30 20:20:36,327 [INFO]: Update id=139132241 is handled. Duration 80 ms by bot id=6802762031
+2024-01-30 21:15:43,604 [INFO]: Update id=139132242 is handled. Duration 194 ms by bot id=6802762031
+2024-01-30 21:15:49,887 [INFO]: Update id=139132243 is handled. Duration 113 ms by bot id=6802762031
+2024-01-30 21:16:27,688 [INFO]: Cookies успешно добавлены.
+2024-01-30 21:16:38,329 [INFO]: Бот зарегистрировал в базе данных нового пользователя ('Дубовицкий Илья Владимирович', 'Ilya_1984_20_12', 5951964989, 'https://fleet.yandex.ru/drivers/0faa7d296a5a405e9ac0dd906c06509f?park_id=c0a8c5228fff4796abc901bcec379d45')
+2024-01-30 21:16:38,609 [INFO]: Update id=139132244 is handled. Duration 12138 ms by bot id=6802762031
+2024-01-30 21:16:47,549 [INFO]: Update id=139132245 is handled. Duration 80 ms by bot id=6802762031
+2024-01-30 21:18:02,510 [INFO]: Cookies успешно добавлены.
+2024-01-30 21:18:09,184 [INFO]: Update id=139132246 is handled. Duration 7996 ms by bot id=6802762031
+2024-01-30 21:18:56,606 [INFO]: Update id=139132247 is handled. Duration 196 ms by bot id=6802762031
+2024-01-30 21:20:07,670 [INFO]: Update id=139132248 is handled. Duration 281 ms by bot id=6802762031
+2024-01-31 20:07:16,094 [INFO]: Update id=139132249 is handled. Duration 227 ms by bot id=6802762031
+2024-01-31 20:07:17,932 [INFO]: Update id=139132250 is handled. Duration 83 ms by bot id=6802762031
+2024-01-31 20:07:19,166 [INFO]: Update id=139132251 is handled. Duration 81 ms by bot id=6802762031
+2024-02-01 06:57:39,575 [INFO]: Update id=139132252 is handled. Duration 226 ms by bot id=6802762031
+2024-02-01 06:57:45,260 [INFO]: Update id=139132253 is handled. Duration 135 ms by bot id=6802762031
+2024-02-01 06:57:47,931 [INFO]: Update id=139132254 is handled. Duration 100 ms by bot id=6802762031
+2024-02-01 06:58:04,157 [INFO]: Cookies успешно добавлены.
+2024-02-01 06:58:18,571 [INFO]: Update id=139132255 is handled. Duration 16333 ms by bot id=6802762031
+2024-02-01 06:58:33,278 [INFO]: Update id=139132256 is handled. Duration 89 ms by bot id=6802762031
+2024-02-01 06:58:36,721 [INFO]: Update id=139132257 is handled. Duration 85 ms by bot id=6802762031
+2024-02-01 11:19:07,549 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-02-01 11:19:07,550 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6802762031)
+2024-02-01 11:19:50,278 [INFO]: Connection established (tryings = 1, bot id = 6802762031)
+2024-02-01 12:07:38,391 [ERROR]: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2024-02-01 12:07:38,392 [WARNING]: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6802762031)
+2024-02-01 12:07:49,575 [INFO]: Connection established (tryings = 1, bot id = 6802762031)
+2024-02-01 12:28:29,833 [INFO]: Update id=139132258 is handled. Duration 211 ms by bot id=6802762031
+2024-02-01 12:48:18,563 [INFO]: Cookies успешно добавлены.
+2024-02-01 12:48:28,040 [INFO]: Update id=139132259 is handled. Duration 11120 ms by bot id=6802762031
+2024-02-01 12:48:59,117 [WARNING]: Received SIGTERM signal
+2024-02-01 12:48:59,120 [INFO]: Polling stopped for bot @LuxTaxiBot id=6802762031 - 'SuperTaxiBot'
+2024-02-01 12:48:59,120 [INFO]: Polling stopped
+2024-02-01 12:48:59,269 [INFO]: База данных запущена
+2024-02-01 12:48:59,269 [INFO]: Бот успешно запущен
+2024-02-01 12:49:17,386 [INFO]: ====== WebDriver manager ======
+2024-02-01 12:49:17,458 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-02-01 12:49:17,623 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-02-01 12:49:17,805 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-02-01 12:49:18,159 [INFO]: WebDriver version 121.0.6167.85 selected
+2024-02-01 12:49:18,163 [INFO]: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip
+2024-02-01 12:49:18,163 [INFO]: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip
+2024-02-01 12:49:18,436 [INFO]: Driver downloading response is 200
+2024-02-01 12:49:18,940 [INFO]: Get LATEST chromedriver version for google-chrome
+2024-02-01 12:49:19,113 [INFO]: Driver has been saved in cache [/home/vol_user/.wdm/drivers/chromedriver/linux64/121.0.6167.85]
+2024-02-01 12:49:19,911 [ERROR]: Произошла ошибка при загрузке cookies: Message: invalid cookie domain
+  (Session info: chrome-headless-shell=121.0.6167.85)
+Stacktrace:
+#0 0x55dcde96ad93 <unknown>
+#1 0x55dcde64e177 <unknown>
+#2 0x55dcde6ed916 <unknown>
+#3 0x55dcde6bc442 <unknown>
+#4 0x55dcde6db12d <unknown>
+#5 0x55dcde6bc1e3 <unknown>
+#6 0x55dcde68c135 <unknown>
+#7 0x55dcde68d13e <unknown>
+#8 0x55dcde92ee4b <unknown>
+#9 0x55dcde932dfa <unknown>
+#10 0x55dcde91b6d5 <unknown>
+#11 0x55dcde933a6f <unknown>
+#12 0x55dcde8ff69f <unknown>
+#13 0x55dcde958098 <unknown>
+#14 0x55dcde958262 <unknown>
+#15 0x55dcde969f34 <unknown>
+#16 0x7f2788a95ac3 <unknown>
+
+2024-02-01 12:49:19,911 [INFO]: Initializing Bot...
+2024-02-01 12:49:19,989 [INFO]: Bot initialized successfully.
+2024-02-01 12:49:19,990 [INFO]: Initializing Dispatcher...
+2024-02-01 12:49:19,990 [INFO]: Dispatcher initialized successfully.
+2024-02-01 12:49:20,002 [INFO]: Бот запущен
+2024-02-01 12:49:20,002 [INFO]: Запуск главной функции...
+2024-02-01 12:49:20,002 [INFO]: Инициализация роутеров...
+2024-02-01 12:49:20,002 [INFO]: Удаление вебхука...
+2024-02-01 12:49:20,190 [INFO]: Запуск поллинга...
+2024-02-01 12:49:20,190 [INFO]: Start polling
+2024-02-01 12:49:20,256 [INFO]: Run polling for bot @LuxTaxiBot id=6802762031 - 'SuperTaxiBot'
